@@ -1,4 +1,3 @@
 shande
-header
-footer
+tittle
 body
